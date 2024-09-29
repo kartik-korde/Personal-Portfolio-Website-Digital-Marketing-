@@ -1,0 +1,10 @@
+img {
+    border-radius: 50%;
+    height: 140px;
+    width: 140px;
+    border: 5px solid white;
+  }
+
+*{
+  background-color: black;
+}
